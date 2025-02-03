@@ -1,4 +1,4 @@
 # Daily
 
-4th February
-- [] Self Development
+4th Februar
+[] Self Development
